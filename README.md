@@ -102,6 +102,7 @@ ul li a:hover {
 
 .section {
   background-color: var(--extra-light);
+  width: 100%;
 }
 
 .section__container {
