@@ -302,11 +302,11 @@ input, textarea {
     width: 60rem;
 }
 footer {
-    height: 100%;
     background-color: var(--extra-light);
     color: black;
     padding: 20px;
     text-align: center;
+    width: 100%;
 }
 
     </style>
