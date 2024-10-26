@@ -102,7 +102,7 @@ ul li a:hover {
 
 .section {
   background-color: var(--extra-light);
-  width: 100%;
+  
 }
 
 .section__container {
@@ -307,7 +307,7 @@ footer {
     color: black;
     padding: 20px;
     text-align: center;
-    width: 100%;
+    
 }
 
     </style>
